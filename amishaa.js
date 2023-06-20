@@ -1,3 +1,3 @@
 const arr = [2, 3, 5];
-arr.pop();
-console.log(arr);
+arr.pop(); //first pop
+console.log(arr); //print
